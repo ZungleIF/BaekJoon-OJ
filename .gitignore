@@ -1,8 +1,2 @@
-.vscode/c_cpp_properties.json
-.vscode/launch.json
-.vscode/settings.json
-.vscode/tasks.json
-executables/1325_dfs.exe
-executables/10451.exe
-executables/11057.exe
-executables/11694.exe
+.vscode/
+executables/
